@@ -12,5 +12,4 @@ Preprocessing: MIDI files are converted into sequences of pitches, steps, and du
 Training: An LSTM network learns temporal dependencies in the musical structure.
 Generation: The model outputs a new music sequence, which is saved as a MIDI file and playable through the interface.
 
-Note:
-To interact with the music generation model, you need to run the MusApp.ipynb(Gradio interface)
+
